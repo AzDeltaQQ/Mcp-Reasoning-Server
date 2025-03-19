@@ -1,3 +1,9 @@
+Notable Mentions : 
+
+https://github.com/Jacck/mcp-reasoner
+
+Thanks for giving me the idea Jacck . 
+
 # MCP Advanced Reasoning Server for Cursor AI
 
 A Model Context Protocol (MCP) server that provides advanced reasoning capabilities for Claude in Cursor AI.
