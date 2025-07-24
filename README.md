@@ -8,6 +8,10 @@ Thanks for giving me the idea Jacck .
 
 A Model Context Protocol (MCP) server that provides advanced reasoning capabilities for Claude in Cursor AI.
 
+<a href="https://glama.ai/mcp/servers/@AzDeltaQQ/Mcp-Reasoning-Server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AzDeltaQQ/Mcp-Reasoning-Server/badge" alt="Advanced Reasoning Server MCP server" />
+</a>
+
 ## Features
 
 - **Monte Carlo Tree Search (MCTS)**: Use MCTS reasoning for complex problem-solving tasks.
